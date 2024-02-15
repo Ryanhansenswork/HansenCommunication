@@ -86,3 +86,14 @@ p{
     
 
 }
+.contact{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 200px;
+    width: 80%;
+    margin-left: 8%;
+}
+
