@@ -71,6 +71,9 @@ section{
     margin-left: 13%;
     color: rgba(0, 0, 11, 1);
 }
+.patch{
+    margin-right: 10%;
+}
 
 .wires{
     height: 360px;
