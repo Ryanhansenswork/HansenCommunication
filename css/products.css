@@ -89,6 +89,9 @@ span{
     height: 400px;
     
 }
+.services li::before{
+    content: "\25B8";
+}
 
 
 
