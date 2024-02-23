@@ -60,7 +60,6 @@ body > section{
     justify-content: space-evenly;
     align-items: center;
     margin-left: 10%;
-    
    
 }
 section + section {
@@ -84,18 +83,25 @@ p{
 .aboutimg{
     height: 400px;
     width: 600px;
-    margin-left: 20px;
     
 
 }
-.contact{
-    font-size: 30px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-direction: column;
-    height: 200px;
-    width: 80%;
-    margin-left: 8%;
+@media screen and (max-width:600px){
+    .body{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    section section {
+        display: flex;
+        justify-content: space-between;
+        
+        font-size: 10px;
+        
+    }
+   .aboutimg{
+        display: none;
+   }
 }
+
 
