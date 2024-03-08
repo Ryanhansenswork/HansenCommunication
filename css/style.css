@@ -284,6 +284,16 @@ footer h1{
         max-width: 600px;
         margin-top: 30%;
     }
+    .wires{display: none;
+    }
+    .patch{
+        margin-right: 300px;
+        display: none;
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+    }
     
     
 }

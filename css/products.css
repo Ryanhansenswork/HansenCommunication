@@ -141,4 +141,13 @@ span{
     }.services{
         font-size: 20px;
     }
+    .aside{
+        display: none;
+    }
+    .aside2{
+        display: none;
+    }
+    .services{
+        font-size: 1.3rem;
+    }
 }
