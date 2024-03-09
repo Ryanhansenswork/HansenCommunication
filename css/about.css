@@ -13,6 +13,7 @@ nav{
         justify-content: space-evenly;
     background: rgba(97, 159, 231, 0.8);
     margin: 0,0,0,0;
+    font-family: "Montserrat";
 }
 ul{
     display: flex;
@@ -51,7 +52,7 @@ main{
         color:  rgba(0, 0, 25, 0.58)
 }
 h1{
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', serif;
     font-size: 35px ;
     
 }
@@ -65,6 +66,7 @@ body > section{
 section + section {
     
     margin-right: 10%;
+    ;
 }
 
 
@@ -72,12 +74,14 @@ span{
     font-size: 22px;
     /*text-indent: 3%;*/
     margin: 30% ,0% 0% 0%;
+    font-family: "Montserrat";
    
 
 }
 p{
     font-size: 19px;
     /*text-indent: 3%;*/
+    font-family: "inter";
    
 }
 .aboutimg{

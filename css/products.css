@@ -16,6 +16,7 @@ nav{
         justify-content: space-evenly;
     background: rgba(97, 159, 231, 0.8);
     margin: 0,0,0,0;
+    font-family: "Montserrat";
     
 }
 ul{
@@ -58,13 +59,17 @@ main{
     
 }
 h1{
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', serif;
     font-size: 35px ;
     
 }
 h2{
     margin-bottom: 30px;
     text-decoration: underline;
+    font-family: "inter";
+}
+h3{
+    font-family: "Montserrat";
 }
 
 
@@ -73,6 +78,7 @@ p{
     color: black;
     font-size: 25px;
     margin-bottom: 100px;
+    font-family: "inter";
 }
 span{
     font-size: 20px;
