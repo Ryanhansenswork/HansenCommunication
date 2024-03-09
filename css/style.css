@@ -305,6 +305,7 @@ footer h1{
     }
     nav{
         padding-top: 20px;
+        font-size:15px;
     }
     header{
         page-break-after: always;

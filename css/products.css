@@ -134,7 +134,7 @@ span{
     height: 110vh;
     
 }*/
-@media screen and (max-width:600px){
+@media screen and (max-width:500px){
     .embody{
         display: flex;
         flex-wrap: wrap;
@@ -160,8 +160,11 @@ span{
     main{
         display: flex;
        justify-content: center;
-       margin-left: 135px
+       margin-left: 85px
 
+    }
+    nav{
+        font-size: 15px;
     }
     
     .naruto{

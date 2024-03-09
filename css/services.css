@@ -134,6 +134,7 @@ span{
     
     body{
             max-width: 500px;
+            
         }
        
     main{
@@ -161,6 +162,8 @@ span{
     nav{
         background: rgba(97, 159, 231, 0);
         padding-top: 20px;
+        font-size: 15px;
+        
     }
     img{
         display: none;
@@ -179,7 +182,7 @@ span{
     }
     ul li{
         margin-left: 10px;
-        font-size: 20px;
+        font-size: 15px;
     }
     .break{
         position: relative;
@@ -198,10 +201,11 @@ span{
     flex-direction: column;
     height: 400px;
     padding-right: 200px;
-    max-width: 325px;
+    max-width: 280px;
     
    }
    p{
     display: none;
    }
+  
 }
