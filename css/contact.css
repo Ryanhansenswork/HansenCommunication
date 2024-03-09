@@ -96,4 +96,37 @@ margin-left: 8%;
     .aside2{
         display: none;
     }
+    .naruto{
+        display: none;
+    }
+   
+    
+    ul{
+        
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 20px;
+        font-size: 20px;
+        
+    }
+    ul li{
+        margin-left: 10px;
+    }
+    .break{
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        
+        background: #000;
+        height: 4px;
+        width: 500px;
+        margin-left: 4.5vh;
+        margin-right: 4.5vh;
+    }
+    nav{
+        background: rgba(97, 159, 231, 0);
+    }
+    
 }
